@@ -1,0 +1,472 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Degree Application Form</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Include html2canvas for capturing the form as an image -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <!-- Include jspdf for creating and downloading the PDF -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <style>
+        @page {
+            size: A4;
+            margin: 10mm;
+            /* Adjusted margin to ensure content fits */
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.5;
+            font-size: 10pt;
+            -webkit-print-color-adjust: exact;
+            color-adjust: exact;
+        }
+
+        .form-container {
+            max-width: 190mm;
+            /* A4 width (210mm) minus margins (10mm each side) */
+            padding: 0;
+            box-shadow: none;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .field {
+            display: flex;
+            align-items: center;
+            margin-top: 1rem;
+        }
+
+        .field-label {
+            white-space: nowrap;
+            padding-right: 0.5rem;
+            flex-shrink: 0;
+            font-weight: 500;
+        }
+
+        .input-line {
+            flex-grow: 1;
+            border-bottom: 1px solid #000;
+            min-height: 1.25rem;
+            display: inline-flex;
+            align-items: center;
+            padding: 0 0.25rem;
+        }
+
+        .input-text {
+            font-size: 10pt;
+            color: #1f2937;
+        }
+
+        .flex-row {
+            display: flex;
+            align-items: flex-end;
+            gap: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .flex-grow {
+            flex-grow: 1;
+        }
+
+        .checkbox-container {
+            display: inline-flex;
+            align-items: center;
+            margin-right: 1.5rem;
+        }
+
+        .checkbox-box {
+            width: 0.8rem;
+            height: 0.8rem;
+            border: 1px solid #000;
+            margin-right: 0.4rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .checkbox-tick {
+            font-size: 0.6rem;
+            color: #000;
+        }
+
+        .note-section {
+            border-top: 1px solid #000;
+            padding-top: 0.75rem;
+            margin-top: 1.5rem;
+        }
+
+        .office-use-section {
+            border-top: 1px solid #000;
+            padding-top: 0.75rem;
+            margin-top: 1.5rem;
+        }
+
+        .office-field {
+            margin-top: 0.75rem;
+        }
+
+        .space-y-4 > div + div {
+            margin-top: 0.75rem;
+        }
+
+        /* Style to hide the buttons for the PDF generation */
+        .no-print {
+            display: none !important;
+        }
+
+        .universityName {
+            text-decoration-line: underline;
+        }
+    </style>
+</head>
+
+<body class="p-6">
+
+    <div class="form-container" id="form-container">
+
+        <header class="header flex-col flex items-center justify-center gap-4">
+            <!-- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgA..." alt="NUST Logo" style="height:60px; width:auto;" /> -->
+            <div class="header flex flex-col items-center max-w-[190mm] mx-auto relative py-2">
+                <div class="line full-line top"></div>
+                <div class="text-center px-2 bg-white relative">
+                    <h1 class="text-xl font-bold universityName">
+                        National University of Sciences & Technology, Islamabad
+                    </h1>
+                    <h2 class="text-md mt-1 universityName">Registrar Directorate</h2>
+                    <h3 class="text-xl font-bold mt-2 universityName">
+                        Request for Issuance of Bachelor Degree (Before
+                        Convocation)
+                    </h3>
+                </div>
+                <div class="line full-line bottom"></div>
+            </div>
+
+        </header>
+
+        <main class="mt-6 space-y-4">
+
+            <!-- Name and Father Name -->
+            <div class="flex-row">
+                <div class="flex-grow">
+                    <label class="field-label" for="name">1. Name</label>
+                    <span class="input-line" id="name">{SStudentName}</span>
+                    <p class="text-xs text-gray-500">(As per Matric/O level certificate)</p>
+                </div>
+                <div class="flex-grow">
+                    <label class="field-label" for="father-name">2. Father Name</label>
+                    <span class="input-line" id="father-name">{SFatherName}</span>
+                    <p class="text-xs text-gray-500">(As per Matric/O level certificate)</p>
+                </div>
+            </div>
+
+            <!-- University Reg No and Student Category -->
+            <div class="flex-row">
+                <div class="flex-grow">
+                    <label class="field-label" for="reg-no">3. University Regn No</label>
+                    <span class="input-line" id="reg-no"></span>
+                </div>
+                <div class="flex-grow">
+                    <label class="field-label" for="student-category">4. Student category</label>
+                    <span class="input-line" id="student-category"></span>
+                </div>
+            </div>
+
+            <!-- Contact and Email -->
+            <div class="flex-row">
+                <div class="flex-grow">
+                    <label class="field-label" for="contact-no">5. Contact No.</label>
+                    <span class="input-line" id="contact-no"></span>
+                </div>
+                <div class="flex-grow">
+                    <label class="field-label" for="email">6. Email</label>
+                    <span class="input-line" id="email"></span>
+                </div>
+            </div>
+
+            <!-- Program and School/College -->
+            <div class="flex-row">
+                <div class="flex-grow">
+                    <label class="field-label" for="program">7. Program</label>
+                    <span class="input-line" id="program"></span>
+                </div>
+                <div class="flex-grow">
+                    <label class="field-label" for="school-college">8. School/College</label>
+                    <span class="input-line" id="school-college"></span>
+                </div>
+            </div>
+
+            <!-- Date of Completion and CGPA -->
+            <div class="flex-row">
+                <div class="flex-grow">
+                    <label class="field-label" for="completion-date">9. Date of completion of degree</label>
+                    <span class="input-line" id="completion-date"></span>
+                </div>
+                <div class="flex-grow">
+                    <label class="field-label" for="cgpa">10. CGPA</label>
+                    <span class="input-line" id="cgpa"></span>
+                </div>
+            </div>
+
+            <div class="space-y-2">
+                <div class="flex items-center">
+                    <div class="checkbox-box" id="clearance-certificate"></div>
+                    <label>12. Photocopy of clearance certificate from School / College</label>
+                    <span class="text-xs font-bold ml-2">&#9633;Attached</span>
+                </div>
+                <div class="flex items-center">
+                    <div class="checkbox-box" id="bank-draft"></div>
+                    <label>13. Bank Draft/Deposit Slip No.</label>
+                    <span class="input-line mx-2" id="bank-draft-no"></span>
+                    <label>Dated</label>
+                    <span class="input-line mx-2" id="bank-draft-date"></span>
+                    <label>of Rs. 2000/-</label>
+                    <span class="text-xs font-bold ml-2">&#9633;Attached</span>
+                </div>
+                <div class="flex items-center">
+                    <div class="checkbox-box" id="cnic"></div>
+                    <label>14. Photocopy of CNIC</label>
+                    <span class="text-xs font-bold ml-2">&#9633;Attached</span>
+                </div>
+            </div>
+
+            <div class="note-section">
+                <p class="font-bold text-xs">Note:</p>
+                <ul class="list-disc list-inside text-xs mt-1 space-y-1">
+                    <li>
+                        (a) Processing time for issuance of degree is minimum 15 working days, after the receipt of
+                        application at Registrar Dte, Main Office subject to issuance of final result notification by
+                        Exam Branch, Main Office.
+                    </li>
+                    <li>(b) Degree will be handed over only to concerned graduate and not sent by courier.</li>
+                    <li>
+                        (c) Degree can also be collected on authority letter by blood relative in case graduate is
+                        away/out of country.
+                    </li>
+                </ul>
+            </div>
+
+            <!-- For Office Use Only Section -->
+            <div class="office-use-section">
+                <h4 class="font-bold text-sm">(For office use only)</h4>
+
+                <!-- Outstanding dues -->
+                <div class="office-field">
+                    <div class="flex items-center">
+                        <label class="field-label">16. Outstanding dues against student Rs.</label>
+                        <span class="input-line" id="outstanding-dues"></span>
+                        <label class="ml-4">Date.</label>
+                        <span class="input-line" id="dues-date"></span>
+                    </div>
+                    <p class="text-xs ml-4">Manager Fee, Fin Dte, HQ NUST</p>
+                </div>
+
+                <!-- Recommendation for issuance -->
+                <div class="office-field">
+                    <div class="flex items-center">
+                        <label class="field-label">
+                            17. Recommended / Not Recommended for issuance of degree before
+                            convocation.
+                        </label>
+                        <span class="input-line" id="recommendation-status"></span>
+                        <label class="ml-4">Date.</label>
+                        <span class="input-line" id="recommendation-date"></span>
+                    </div>
+                    <p class="text-xs ml-4">ACE, Exam Dte, Main Office</p>
+                </div>
+
+                <!-- Controller of Examinations -->
+                <div class="office-field">
+                    <div class="flex items-center">
+                        <label class="field-label">18. Recommended / Not Recommended</label>
+                        <span class="input-line" id="controller-exam-status"></span>
+                        <label class="ml-4">Date.</label>
+                        <span class="input-line" id="controller-exam-date"></span>
+                    </div>
+                    <p class="text-xs ml-4">Controller of Examinations</p>
+                </div>
+
+                <!-- Pro Rector -->
+                <div class="office-field">
+                    <div class="flex items-center">
+                        <label class="field-label">19. Approved / Not Approved</label>
+                        <span class="input-line" id="pro-rector-status"></span>
+                        <label class="ml-4">Date.</label>
+                        <span class="input-line" id="pro-rector-date"></span>
+                    </div>
+                    <p class="text-xs ml-4">Pro Rector (A)</p>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+   
+
+    <!--<script>
+        // Demo JSON data for a student
+        const studentData = {
+            "name": "Muhammad Ali",
+            "father-name": "Javed Khan",
+            "reg-no": "2019-NUST-5678",
+            "student-category": "Civilian",
+            "contact-no": "0300-1234567",
+            "email": "muhammad.ali@example.com",
+            "program": "BS Computer Science",
+            "school-college": "School of Computer Science",
+            "completion-date": "2023-05-15",
+            "cgpa": "3.85",
+            "reason-job": true,
+            "reason-higher-studies": false,
+            "reason-pec": false,
+            "clearance-certificate": true,
+            "bank-draft": true,
+            "cnic": true,
+            "bank-draft-no": "00987654",
+            "bank-draft-date": "2023-06-01",
+            "signature": "Muhammad Ali",
+            "date": "2023-06-01"
+        };
+
+        // Demo JSON data for office use
+        const officeData = {
+            "outstanding-dues": "1500.00",
+            "dues-date": "2023-06-10",
+            "recommendation-status": "Recommended",
+            "recommendation-date": "2023-06-12",
+            "controller-exam-status": "Recommended",
+            "controller-exam-date": "2023-06-15",
+            "pro-rector-status": "Approved",
+            "pro-rector-date": "2023-06-20"
+        };
+
+        /**
+         * Fills the form with demo data.
+         */
+        function fillForm() {
+            const data = { ...studentData, ...officeData };
+
+            for (const key in data) {
+                if (!data.hasOwnProperty(key)) continue;
+                const value = data[key];
+                const element = document.getElementById(key);
+
+                if (!element) continue;
+
+                // For checkbox-style fields (boolean)
+                if (typeof value === 'boolean') {
+                    if (value) {
+                        element.innerHTML = `<span class="checkbox-tick">&#10003;</span>`;
+                    } else {
+                        element.innerHTML = ''; // ensure empty if false
+                    }
+                } else {
+                    element.innerHTML = `<span class="input-text">${value}</span>`;
+                }
+            }
+        }
+
+        // Automatically fill demo data on load for convenience
+        window.onload = fillForm;
+
+        async function downloadForm() {
+            const formContainer = document.getElementById('form-container');
+
+            // Wait for web fonts to be ready (helps avoid fuzzy rendering)
+            if (document.fonts && document.fonts.ready) {
+                await document.fonts.ready;
+            }
+
+            // A4 in mm and target DPI
+            const mmPerInch = 25.4;
+            const pdfWidthMm = 210;
+            const targetDPI = 300;
+            const pdfWidthInches = pdfWidthMm / mmPerInch;
+            const targetPixelWidth = Math.round(pdfWidthInches * targetDPI); // e.g., ~2480px
+
+            // Compute scale so that the captured canvas width ~ targetPixelWidth
+            const containerWidthPx = formContainer.getBoundingClientRect().width;
+            let scale = targetPixelWidth / containerWidthPx;
+
+            // Cap scale to avoid huge memory use (e.g., max 3)
+            scale = Math.min(scale, 3);
+
+            const canvas = await html2canvas(formContainer, {
+                scale: scale,
+                useCORS: true,
+                allowTaint: true,
+                logging: false,
+                windowWidth: document.documentElement.scrollWidth,
+                windowHeight: document.documentElement.scrollHeight
+            });
+
+            const { jsPDF } = window.jspdf;
+            const pdf = new jsPDF('p', 'mm', 'a4');
+
+            const pdfWidth = pdf.internal.pageSize.getWidth();
+            const pdfHeight = pdf.internal.pageSize.getHeight();
+            const margin = 10; // mm
+            const usableWidth = pdfWidth - margin * 2;
+            const usableHeight = pdfHeight - margin * 2;
+
+            const pxPerMm = canvas.width / usableWidth;
+            const sliceHeightPx = Math.floor(usableHeight * pxPerMm);
+
+            let sliceY = 0;
+            let pageIndex = 0;
+
+            while (sliceY < canvas.height) {
+                const sliceCanvas = document.createElement('canvas');
+                sliceCanvas.width = canvas.width;
+                sliceCanvas.height = Math.min(sliceHeightPx, canvas.height - sliceY);
+                const ctx = sliceCanvas.getContext('2d');
+                ctx.drawImage(
+                    canvas,
+                    0,
+                    sliceY,
+                    canvas.width,
+                    sliceCanvas.height,
+                    0,
+                    0,
+                    canvas.width,
+                    sliceCanvas.height
+                );
+
+                const sliceData = sliceCanvas.toDataURL('image/png');
+                const sliceHeightMm = sliceCanvas.height / pxPerMm;
+
+                if (pageIndex > 0) {
+                    pdf.addPage();
+                }
+                pdf.addImage(
+                    sliceData,
+                    'PNG',
+                    margin,
+                    margin,
+                    usableWidth,
+                    sliceHeightMm
+                );
+
+                sliceY += sliceCanvas.height;
+                pageIndex++;
+            }
+
+            pdf.save('degree-application-filled.pdf');
+        }
+    </script>-->
+
+
+
+</body>
+
+</html>

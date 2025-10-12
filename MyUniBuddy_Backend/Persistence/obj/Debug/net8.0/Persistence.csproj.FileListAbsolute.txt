@@ -1,0 +1,72 @@
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Domain.dll
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\StudentDocumantRequestPortal\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\StudentDocumantRequestPortal\Persistence\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Persistence\obj\Debug\net8.0\ref\Persistence.dll

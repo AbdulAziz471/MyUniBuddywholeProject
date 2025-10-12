@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Persistence.Interfaces
+{
+    public interface IForgotPasswordService
+    {
+        Task SendPasswordResetLinkAsync(string email);
+        Task ResetPasswordAsync(string email, string token, string newPassword);
+    }
+}

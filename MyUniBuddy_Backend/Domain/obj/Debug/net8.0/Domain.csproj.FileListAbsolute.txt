@@ -1,0 +1,24 @@
+D:\StudentDocumantRequestPortal\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\StudentDocumantRequestPortal\Domain\bin\Debug\net8.0\Domain.dll
+D:\StudentDocumantRequestPortal\Domain\bin\Debug\net8.0\Domain.pdb
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.dll
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\Domain.pdb
+D:\StudentDocumantRequestPortal\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll

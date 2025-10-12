@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Domain</id>
+    <version>1.0.0</version>
+    <authors>Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e5ea9ee7af37fea30eaab5a8151b37e9c30601a4" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="PuppeteerSharp" version="20.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\StudentDocumantRequestPortal\Domain\bin\Debug\net8.0\Domain.dll" target="lib\net8.0\Domain.dll" />
+  </files>
+</package>

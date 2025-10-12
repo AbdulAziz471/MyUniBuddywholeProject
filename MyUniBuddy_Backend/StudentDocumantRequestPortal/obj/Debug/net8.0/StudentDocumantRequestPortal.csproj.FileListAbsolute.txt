@@ -1,0 +1,516 @@
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\appsettings.Development.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\appsettings.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.staticwebassets.runtime.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.staticwebassets.endpoints.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.exe
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.deps.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.runtimeconfig.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.pdb
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Azure.Core.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Azure.Identity.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\BaselineTypeDiscovery.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Humanizer.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.CodeDom.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Memory.Data.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Domain.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Persistence.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Domain.pdb
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Persistence.pdb
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.csproj.AssemblyReference.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.AssemblyInfoInputs.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.AssemblyInfo.cs
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.csproj.CoreCompileInputs.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\scopedcss\bundle\StudentDocumantRequestPortal.styles.css
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.development.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentD.0E73F942.Up2Date
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\refint\StudentDocumantRequestPortal.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.pdb
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.genruntimeconfig.cache
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\obj\Debug\net8.0\ref\StudentDocumantRequestPortal.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\PuppeteerSharp.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\QuestPDF.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libcrypto.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libjpeg.so.8
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libcrypto.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libcrypto.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libjpeg.so.8
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libcrypto.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libjpeg.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libcrypto.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libjpeg.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\StudentDocumantRequestPortal\StudentDocumantRequestPortal\bin\Debug\net8.0\RazorLight.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\appsettings.Development.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\appsettings.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.staticwebassets.endpoints.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.staticwebassets.runtime.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.exe
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.deps.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.runtimeconfig.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\StudentDocumantRequestPortal.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Azure.Core.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Azure.Identity.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\BaselineTypeDiscovery.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Humanizer.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\PuppeteerSharp.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\QuestPDF.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\RazorLight.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.CodeDom.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libcrypto.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libcrypto.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libjpeg.so.8
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libcrypto.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libjpeg.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Domain.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Persistence.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Domain.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\bin\Debug\net8.0\Persistence.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.csproj.AssemblyReference.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.AssemblyInfoInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.AssemblyInfo.cs
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.csproj.CoreCompileInputs.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\scopedcss\bundle\StudentDocumantRequestPortal.styles.css
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.development.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentD.0E73F942.Up2Date
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\refint\StudentDocumantRequestPortal.dll
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.pdb
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\StudentDocumantRequestPortal.genruntimeconfig.cache
+D:\Abdul Aziz\ManahilProject\MyUniBuddy\MyUniBuddy_Backend\StudentDocumantRequestPortal\obj\Debug\net8.0\ref\StudentDocumantRequestPortal.dll

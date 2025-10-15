@@ -162,11 +162,11 @@ builder.Services.AddControllers();
 var app = builder.Build();
 
 // 🧪 Swagger (only in development)
-if (app.Environment.IsDevelopment())
+//if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 // 🌍 HTTPS
 app.UseHttpsRedirection();
